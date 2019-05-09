@@ -1,1 +1,1 @@
-# ibm-datascience
+# Datascience
