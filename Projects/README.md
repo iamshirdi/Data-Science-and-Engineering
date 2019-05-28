@@ -1,1 +1,8 @@
-this notebook will be mainly used for the capstone project
+# Machine Learning
+<ul>
+
+<li>Churn Prediction:Logistic Regression</li>
+<li>Drug Classifier:Decision Trees </li>
+<li>Cancer Data:SVM Classifier </li>
+
+</ul>

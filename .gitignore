@@ -1,0 +1,12 @@
+#ignore the folder and its contents
+*.sqlite
+
+
+#ignore the folder and its contents
+.ipynb_checkpoints/
+
+#ignore all npz files in folder
+*.npz
+*.h5
+
+#.gitignore to even ignore this file in git
