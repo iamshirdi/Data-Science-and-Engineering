@@ -1,4 +1,4 @@
-# Machine Learning
+### Machine Learning assignment
 <ul>
 
 <li>Churn Prediction:Logistic Regression</li>
