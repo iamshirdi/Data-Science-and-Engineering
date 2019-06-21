@@ -1,3 +1,11 @@
+### Google Geodata API
+-  Google GeoCoding API to retrieve data 
+- dump data in sqlite for retrival
+- use Google Maps to visualize the data.
+### Sweden Stastics analysis API
+
+### Four Square API
+
 ### Machine Learning assignment
 <ul>
 
