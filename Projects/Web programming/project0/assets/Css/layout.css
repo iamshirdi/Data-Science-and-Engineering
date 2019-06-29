@@ -1,0 +1,61 @@
+@charset "UTF-8";
+ol li a::before {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h2 {
+  color: #563d7c;
+}
+
+.top {
+  display: grid;
+  padding: 20px;
+  grid-column-gap: 20px;
+  grid-row-gap: 10px;
+  grid-template-columns: 200px 200px 200px 200px;
+}
+
+.grid-item {
+  background-color: #563d7c;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+ol li {
+  font-size: 16px;
+}
+ol li a::before {
+  content: "⇒ Click here: ";
+}
+ol li a:visited {
+  color: green;
+  text-decoration: line-through;
+}
+ol li a:hover {
+  color: #FF00FF;
+}
+
+@media (min-width: 500px) {
+  body {
+    background-color: black;
+    color: #E18728;
+  }
+
+  h1::before {
+    content: "Welcome to My Web Page!";
+  }
+}
+@media (max-width: 499px) {
+  body {
+    background-color: teal;
+  }
+
+  h1::before {
+    content: "Welcome!";
+  }
+}
+
+/*# sourceMappingURL=layout.css.map */

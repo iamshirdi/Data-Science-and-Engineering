@@ -1,0 +1,45 @@
+ .top {
+                
+                display: grid;
+                padding: 20px;
+                grid-column-gap: 20px;
+                grid-row-gap: 10px;
+                grid-template-columns: auto auto auto auto;
+				
+            }
+				.grid-item {
+				background-color: #563d7c;
+                font-size: 20px;
+                padding: 20px;
+                text-align: center;
+            }
+			
+			hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+} 
+
+a:hover {
+		color: #FF00FF;
+}
+
+a:link {
+  color: green;
+}
+
+@media (max-width: 499px) {
+   .top {
+                
+                display: grid;
+                padding: 20px;
+                grid-column-gap: 20px;
+                grid-row-gap: 10px;
+                grid-template-columns: auto;
+				
+            }
+}
