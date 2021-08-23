@@ -2,5 +2,5 @@
 	path = R-Programming
 	url = https://github.com/iamshirdi/R-Programming.git
 [submodule "python/Data-Camp"]
-	path = python/Data-Camp
+	path = Exercises-data-science/Data-Camp
 	url = https://github.com/iamshirdi/Data-Camp.git

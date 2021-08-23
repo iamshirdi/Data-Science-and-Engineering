@@ -4,6 +4,10 @@
 - use Google Maps to visualize the data.
 ### Sweden Stastics analysis API
 
+### Cassandra
+
+### Postgresql
+
 ### Web Programming
 <ul>
 
