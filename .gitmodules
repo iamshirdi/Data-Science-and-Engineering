@@ -4,3 +4,6 @@
 [submodule "python/Data-Camp"]
 	path = Exercises-data-science/Data-Camp
 	url = https://github.com/iamshirdi/Data-Camp.git
+[submodule "statstics"]
+	path = statstics
+	url = https://github.com/iamshirdi/statstics
